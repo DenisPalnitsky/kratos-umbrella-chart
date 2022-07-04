@@ -1,6 +1,5 @@
 postgresql:
-  fullnameOverride: 'postgres'  
-  postgresqlDatabase: "identity"
+  fullnameOverride: 'postgres'    
   auth:    
     postgresPassword: xpass
     database: identity
