@@ -7,8 +7,7 @@ postgresql:
 
 kratos:  
   image:
-    repository: 'oryd/kratos'
-    tag: 'v0.9.0-alpha.3'
+    repository: 'oryd/kratos'   
   kratos:
     autoMigrate: true
     development: false
